@@ -5,7 +5,7 @@
       "headline": "El chocolate negro previene enfermedades cardíacas",
       "isReal": true,
       "category": "salud",
-      "imageUrl": "noticia_01.png",
+      "imageUrl": "Autismo-fita3.jpg",
       "searchUrl": "https://www.google.com"
     },
     {
@@ -13,8 +13,8 @@
       "headline": "Las vacunas causan autismo según nuevos estudios",
       "isReal": false,
       "category": "salud",
-      "imageUrl": "noticia_02.png",
-      "searchUrl": "https://www.google.com"
+      "imageUrl": "Autismo-fita3.jpg",
+      "searchUrl": "https://www.facebook.com"
     }
   ]
 }
