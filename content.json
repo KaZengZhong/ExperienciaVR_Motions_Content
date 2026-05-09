@@ -6,6 +6,8 @@
       "isReal": true,
       "category": "salud",
       "imageUrl": "images.jpg",
+      "videoUrl": "",
+      "audioUrl": "",
       "searchUrl": "https://www.google.com"
     },
     {
@@ -14,6 +16,8 @@
       "isReal": false,
       "category": "salud",
       "imageUrl": "Autismo-fita3.jpg",
+      "videoUrl": "",
+      "audioUrl": "",
       "searchUrl": "https://www.google.com"
     },
     {
@@ -22,6 +26,8 @@
       "isReal": true,
       "category": "economia",
       "imageUrl": "pngtree-copper-wire-png-image_13244888.png",
+      "videoUrl": "",
+      "audioUrl": "",
       "searchUrl": "https://www.google.com"
     },
     {
@@ -30,6 +36,8 @@
       "isReal": false,
       "category": "salud",
       "imageUrl": "pngtree-cool-water-for-drink-png-image_14648792.png",
+      "videoUrl": "",
+      "audioUrl": "",
       "searchUrl": "https://www.google.com"
     },
     {
@@ -38,6 +46,8 @@
       "isReal": false,
       "category": "ciencia",
       "imageUrl": "pngtree-realistic-human-brain-illustration-png-image_15870352.png",
+      "videoUrl": "",
+      "audioUrl": "",
       "searchUrl": "https://www.google.com"
     },
     {
@@ -46,6 +56,8 @@
       "isReal": true,
       "category": "ciencia",
       "imageUrl": "png-clipart-antarctica-chilean-antarctic-territory-globe-earth-globe-miscellaneous-blue.png",
+      "videoUrl": "",
+      "audioUrl": "",
       "searchUrl": "https://www.google.com"
     },
     {
@@ -54,6 +66,8 @@
       "isReal": false,
       "category": "salud",
       "imageUrl": "4696863.png",
+      "videoUrl": "",
+      "audioUrl": "",
       "searchUrl": "https://www.google.com"
     },
     {
@@ -62,6 +76,8 @@
       "isReal": true,
       "category": "ciencia",
       "imageUrl": "pngtree-liquid-water-drop-splash-three-dimensional-decoration-png-image_4361854.png",
+      "videoUrl": "",
+      "audioUrl": "",
       "searchUrl": "https://www.google.com"
     },
     {
@@ -70,6 +86,8 @@
       "isReal": false,
       "category": "salud",
       "imageUrl": "5601185.png",
+      "videoUrl": "",
+      "audioUrl": "",
       "searchUrl": "https://www.google.com"
     },
     {
@@ -78,6 +96,8 @@
       "isReal": false,
       "category": "ciencia",
       "imageUrl": "images (1).jpg",
+      "videoUrl": "",
+      "audioUrl": "",
       "searchUrl": "https://www.google.com"
     },
     {
@@ -86,6 +106,8 @@
       "isReal": true,
       "category": "salud",
       "imageUrl": "1085374.png",
+      "videoUrl": "",
+      "audioUrl": "",
       "searchUrl": "https://www.google.com"
     },
     {
@@ -94,6 +116,28 @@
       "isReal": false,
       "category": "ciencia",
       "imageUrl": "pngtree-thunder-and-bolt-lighting-flash-vector-png-image_1502121.jpg",
+      "videoUrl": "",
+      "audioUrl": "",
+      "searchUrl": "https://www.google.com"
+    },
+    {
+      "id": "noticia_13",
+      "headline": "Audio de prueba",
+      "isReal": true,
+      "category": "ciencia",
+      "imageUrl": "",
+      "videoUrl": "",
+      "audioUrl": "kontraa-water-afro-pop-music-445661.mp3",
+      "searchUrl": "https://www.google.com"
+    },
+    {
+      "id": "noticia_14",
+      "headline": "Video de prueba",
+      "isReal": true,
+      "category": "ciencia",
+      "imageUrl": "",
+      "videoUrl": "348116_medium.mp4",
+      "audioUrl": "",
       "searchUrl": "https://www.google.com"
     }
   ]
