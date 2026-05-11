@@ -12,12 +12,12 @@
     },
     {
       "id": "noticia_14",
-      "headline": "Audio de prueba 2",
+      "headline": "Video de prueba 2",
       "isReal": false,
       "category": "ciencia",
       "imageUrl": "",
-      "videoUrl": "",
-      "audioUrl": "337459_medium.mp4",
+      "videoUrl": "337459_medium.mp4",
+      "audioUrl": "",
       "searchUrl": "https://www.google.com"
     },
     {
